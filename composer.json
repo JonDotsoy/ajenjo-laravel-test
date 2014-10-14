@@ -3,6 +3,7 @@
 	"description": "The Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
+	"version": "0.0.1",
 	"require": {
 		"laravel/framework": "4.2.*",
 		"alfa30/ajenjo-laravel": "~0.5"
